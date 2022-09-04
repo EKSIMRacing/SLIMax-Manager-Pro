@@ -30,3 +30,25 @@ The current devices and virtual racing dash supported (2022-01) are:
 The application can manage all devices and simultaneously. SLIMax Manager Pro is free for using it with your BU0710 device and Logitech G27/G29/G920. However it requires a license if you add other Display USB devices from SIM Display or Leo Bodnar or VDASH-EMU Dash Emulator.
 
 SLIMax Manager Pro (No Fanatec) app is included as well. In this version the native management of Fanatec hardware is removed, it doesn’t load the Fanatec sdk library and have a better performance using your racing display, EMU or Bodnar conversion kit or OSW TeensyLC mod.
+
+SLIMax Manager Pro main features
+
+    – management of LED of your display including: RPM Shiftlights, Marshal/Warning/External LEDs, Shift-points feedback, KERS/ERS/DRS feedback, Pit-limiter feedback
+    – management of DIGITS of your display including: gear digits, left/right panels 6 x 7 segments digits, left/right panels 4×14 seg. digits, central Fanatec panel 3×7 seg. digits
+    – including a device and emulator SETUPS Management, hundreds of default setups already included + the possibility to create your own setup up to 300 custom setups per device/emulator
+    – management of information displayed on digits panels, more than 100 functions available (speed, rpm, fuel, temp, press, current/last/best laptime, sector, delta time, etc.)
+    – management of a PRO DELTA TIME to improve your PB based on database of partials (portion of track)
+    – management of DELTA TIME clipping tool to fine tune your delta time
+    – contains almost all F1/GT Steering wheel behaviors (PIT-LIMITER, ENGINE STALL, BRAKE BIAS, BOOST/OVERDRIVE, DIFF.IN/MID/OUT, ARBR/L, Throttle shape, MIX, etc.)
+    – including a game/simulation Plugins Manager (more than 60 games/simulations supported)
+    – management of mapping your display controller buttons, switches, encoders to keystrokes sequence (macro) to drive your simulation/game
+    – management of mapping your steering wheel buttons, axes, encoders to keystrokes sequence (macro) to drive your simulation/game
+    – management of mapping your buttons, axes, encoders to keystrokes sequence (macro) to drive your simulation/game of your DSD Buttonbox and you Virtual ButtonBox integrated with VDASH-EMU
+    – management of your pedals set motors/axes
+    – laps telemetry dump, to analyze and compare your laps
+    – test your devices / emulators quickly
+    – include an AUTO-UPDATER to keep your installation up to date (software, setups and plugins updates management)
+    – management of proxy applications for Codemasters titles to use multiple sim racing device simultaneously (display/emulators, motion platform, buttkicker, etc.)
+    – management of bridge applications for PS4 / XBOX ONE to use your display/emulators with your Console games
+
+NOTES: All information managed by SLIMax Manager Pro are not available in all games/simulations it depends of the the amount of telemetry available in their A.P.I. (Application Programming interface).
