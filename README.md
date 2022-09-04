@@ -5,7 +5,6 @@ Applications and plugins (c)2011-2022 by Zappadoc – All Rights Reserved.
 SLIMax Manager Pro a powerful tool to control LED, displays and inputs of your gaming hardware (steering wheel and usb display devices). Also manages virtual racing dash emulator on Android and Windows tablets. (a minimum contribution of $5 USD per gaming device is requested to get your software license, click the link below to download, register and get your license).
 
 The current devices and virtual racing dash supported (2022-01) are:
-
 .SIM RACE LCD, SIM RACE GT, SIM RACE F1, SIM RACE Deluxe or SIM RACE PRO USB Shift lights Display devices from SIM Display,
 .USB Shift lights Interface ( SLI-F1, SLI-PRO, SLI-M, BU0710, old SLI,…) and game controllers from Leo Bodnar,
 .USB Fanatec Conversion Kit from Leo Bodnar,
