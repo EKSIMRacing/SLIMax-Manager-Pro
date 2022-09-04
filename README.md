@@ -61,6 +61,6 @@ PC with Microsoft 64bit Windows version 7 to 11 (Windows 32 Bit is no longer sup
 IMPORTANT:
 Windows 8 RT is not supported (ARM-based processors)
 
-By using our software you agree to these terms and conditions
+By using our software you agree to EKSIMRacing terms and conditions (see the website for more info).
 
 
